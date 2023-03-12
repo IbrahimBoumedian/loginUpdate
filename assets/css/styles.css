@@ -179,7 +179,7 @@
   color: white !important;
   border-style: solid;
   background-image: linear-gradient(to top, #4481eb 0%, #04befe 100%);
-  border-radius: 10px;
+  border-radius: 10px !important;
   padding: 15px 30px;
   text-decoration: none;
 }
